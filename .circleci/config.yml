@@ -6,4 +6,3 @@ workflows:
     jobs:
       - node/test
 
-circleci-project-setup
